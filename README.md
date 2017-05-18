@@ -1,7 +1,16 @@
 # hollow-quickstart-kotlin
 trying to port netflix's hollow reference-implementation to kotlin
 
+# how to run?
 
+- start producer
+- start consumer
+- open in browser:
+    - http://localhost:7777
+    - http://localhost:7778
+    
+- Note: this impl. uses a local filesystem announcer ...
+  e.g.: /var/folders/vd/r9s61bdn7bd49bgwnv021g1h0000gn/T/publish-dir/announced.version
 
 # Hollow Reference Implementation
 
